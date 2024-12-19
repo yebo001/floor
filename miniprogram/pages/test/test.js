@@ -7,7 +7,7 @@ Page({
   data: { avatarUrl: "../../assets/images/love.jpg" },
 
     handler() {
-    // 获取当前帐号信息
+    // 获取当前帐号信息 git测试
     const accountInfo = wx.getAccountInfoSync();
 
     // 获取小程序项目的 appId
